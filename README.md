@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/grevians-onula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grevians-onula" height="30" width="40" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grevians-onula&label=Profile%20views&color=0e75b6&style=flat" alt="greviansonula" /> </p>
 
 - 🔭 I’m  working on Computer Vision and NLP projects
 
