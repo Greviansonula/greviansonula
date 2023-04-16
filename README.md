@@ -17,6 +17,8 @@
 
 - 🌱 I’m currently learning Data Science and Hands on MLOPs
 
+- 🕸️ Portfolio: https://grevians.dpart.co.ke
+
 - 💬 Reach Me @ greviansonula@dpart.co.ke
 
 <h3 align="left">Languages and Tools:</h3>
